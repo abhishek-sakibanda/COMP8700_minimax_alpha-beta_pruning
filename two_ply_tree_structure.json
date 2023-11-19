@@ -1,0 +1,43 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "value": 3
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 8
+        }
+      ]
+    },
+    {
+      "children": [
+        {
+          "value": 2
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 6
+        }
+      ]
+    },
+    {
+      "children": [
+        {
+          "value": 14
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        }
+      ]
+    }
+  ]
+}
